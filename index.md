@@ -11,3 +11,9 @@ var myVar = "Hello, world!";
 ```
 
 ###### Add codes
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+###### Add checkboxes
